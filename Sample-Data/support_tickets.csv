@@ -1,0 +1,11 @@
+ticket_id,agent,priority,status,resolution_time_hours,customer_satisfaction,issue_type
+1001,Alice,High,Resolved,2,5,Login Issue
+1002,Brian,Medium,Resolved,4,4,Password Reset
+1003,Carol,High,Resolved,1,5,Email Problem
+1004,David,Low,Resolved,6,4,Software Installation
+1005,Alice,Medium,Resolved,3,5,Printer Issue
+1006,Brian,High,Escalated,10,2,Network Outage
+1007,Carol,Low,Resolved,5,4,Account Setup
+1008,David,Medium,Resolved,2,5,VPN Issue
+1009,Alice,High,Resolved,1,5,Windows Update
+1010,Brian,Medium,Resolved,4,4,OneDrive Sync
